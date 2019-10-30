@@ -1,0 +1,12 @@
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\bin\Debug\Bitekser QR Oluşturucu.exe
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\bin\Debug\Bitekser QR Oluşturucu.pdb
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\bin\Debug\Zen.Barcode.Core.dll
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser QR Oluşturucu.csprojResolveAssemblyReference.cache
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser_QR_Oluşturucu.Form1.resources
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser_QR_Oluşturucu.Properties.Resources.resources
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser QR Oluşturucu.csproj.GenerateResource.Cache
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser QR Oluşturucu.exe
+c:\users\xx\documents\visual studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser QR Oluşturucu.pdb
+C:\Users\xx\Documents\Visual Studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\obj\Debug\Bitekser QR Oluşturucu.csproj.ResolveComReference.cache
+C:\Users\xx\Documents\Visual Studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\xx\Documents\Visual Studio 2015\Projects\Bitekser QR Oluşturucu\Bitekser QR Oluşturucu\bin\Debug\stdole.dll
